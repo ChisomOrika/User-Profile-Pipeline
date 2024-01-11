@@ -20,12 +20,9 @@ The entire streaming process is managed by a Kafka setup that has a Zookeeper pi
 **Setup and Requirements**
 
 1. Clone the repository
-```git clone https://github.com/vedanthv/data-engineering-portfolio.git```
+```git clone https://github.com/ChisomOrika/User-Profile-Pipeline```
 
-2. Navigate to the project directory:
-```cd data-engineering-portfolio/user-mingle```
-
-3. Run Docker Compose to Spin Up the Service
+2. Run Docker Compose to Spin Up the Service
 ```docker-compose up```
 
 **Demo**
